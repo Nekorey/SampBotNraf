@@ -17,8 +17,8 @@ const settings = new enmap({
     cloneLevel: "deep",
     fetchAll: true
   });
-let Samp_IP = "139.99.125.54"
-let Samp_Port = 7777
+let Samp_IP = "162.19.130.194"
+let Samp_Port = 6108
 /*const mysql = require('mysql');
 const RowDataPacket = require('mysql/lib/protocol/packets/RowDataPacket');
 const sqlcon = mysql.createConnection({
